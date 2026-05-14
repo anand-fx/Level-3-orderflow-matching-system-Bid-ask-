@@ -1,0 +1,19 @@
+# Build output
+*.exe
+*.o
+*.a
+bin/
+obj/
+
+# Code::Blocks IDE files
+*.cbp
+*.layout
+*.depend
+*.workspace
+
+# Data — never commit your CSV
+*.csv
+
+# OS
+Thumbs.db
+.DS_Store
